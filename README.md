@@ -1,5 +1,5 @@
 # SceneKit-Occlusion
-Virtual object occlusion using ARKit &amp; SceneKit
+Sample project demonstrating virtual object environmental occlusion using ARKit &amp; SceneKit
 
 ### Background
 
